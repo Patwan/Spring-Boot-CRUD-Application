@@ -1,10 +1,9 @@
 # Spring Boot CRUD Application
-A project illustrating creation and use of CRUD functionalities using Java Spring Boot framework.
-We have a simple view to create, read and update products in a MySQL database. We use server side
-rendering of the views.
+A starter project for creation of a **CRUD application** using Java Spring Boot framework.
+We have views to create, read and update products in a MySQL database.
 
 # Application Dependencies
-This can be found in te pom.xml file.
+These are found in te pom.xml file.
 
 * Spring Boot 2.3.1 Java Frameowrk <br/>
 * Thymeleaf templating engine for the views <br/>
@@ -25,6 +24,6 @@ This can be found in te pom.xml file.
 This program is free software published under the terms of the GNU [Lesser General Public License](http://www.gnu.org/copyleft/lesser.html). <br/>
 You can freely use it for commercial and non-commercial projects.
 
-Suggestions are welcomed. Happy Coding and may the code bless you. 😇
+Suggestions are welcomed. Happy Coding and may God bless you. 😇
 
 
